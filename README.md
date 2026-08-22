@@ -1,23 +1,23 @@
 # Hi, I'm Soham 👋
 
-## About Me
+##✨ About Me
 CS sophomore at University Institute of Technology, University of Burdwan. Started with competitive programming in Java (Codeforces Div 3/4 era), moved through Python/SQL, now building full-stack in JS/TS. Currently focused on backend/server-side systems, with an eye toward finance applications.
 
-Co-founder of **Gracenotes School of Music** (operating as Tempogrid Pvt Ltd) — handling ops, infra, and sales tech.
+Co-founder of **Gracenotes School of Music** — handling ops, infra, and sales tech.
 
-## What I'm Building
+##🧑‍💻 What I'm Building
 - **Gracenotes Console V4** — internal ops console: Vite + React frontend, PostgreSQL, Better Auth, deployed on a VPS (Nginx + PM2 + Let's Encrypt)
 - **Gracenotes Website** — Next.js App Router rebuild of gracenotes-music.com
 - **Trading Engine** — multi-asset backtester using vectorbt on a PostgreSQL OHLCV schema; live execution for crypto, paper-trading only for Nifty/Sensex/Forex
 - **Freelance work** — a Bengali drama company site, static HTML/CSS/JS now, migrating to Next.js + Supabase + Razorpay
 
-## Socials
+##🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-dey-599202298/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/soham._.dey/)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Vindicator655/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohamdeyofficial@gmail.com)
 
-## Tech Stack
+##⚙️ Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,7 +35,7 @@ Co-founder of **Gracenotes School of Music** (operating as Tempogrid Pvt Ltd) �
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 
-## GitHub Stats
+##😶‍🌫️ GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vindicator655&show_icons=true&theme=tokyonight&hide_border=true"/>
