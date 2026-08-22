@@ -58,8 +58,8 @@ Running local inference on an RTX 3070 Ti (8GB VRAM) via Ollama and LM Studio â€
 ## ðŸ“Š GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vindicator655&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vindicator655&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-vindicator655s-projects.vercel.app/api?username=Vindicator655&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-vindicator655s-projects.vercel.app/api/top-langs/?username=Vindicator655&layout=compact&theme=tokyonight&hide_border=true&count_private=true"/>
 </p>
 
 <p align="center">
